@@ -1,0 +1,9 @@
+a:hover{
+    font-size: 48px;
+    color: rgb(255, 187, 0);
+    background-color: aquamarine;
+    border: 1px sandybrown;
+}
+a:visited{
+    color: rgb(230, 19, 156);
+}

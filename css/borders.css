@@ -1,0 +1,22 @@
+.border{
+    border: 5px solid red;
+}
+.dashed{
+    border: 2px dashed orange;
+}
+.dotted{
+    border: 2px dotted gold;
+}
+.double{
+    border: 2px double greenyellow;
+}
+.inset{
+    border: 2px inset;
+}.outset{
+    border: 2px outset;
+}
+.bRadius{
+    border:1px solid;
+    border-radius: 30px;
+    border-color: blueviolet red yellow greenyellow;
+}

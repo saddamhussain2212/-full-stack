@@ -1,0 +1,6 @@
+p::before{
+    content:"Welcome to ";
+}
+p::after{
+    content:" class";
+}

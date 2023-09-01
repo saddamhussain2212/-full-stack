@@ -1,0 +1,10 @@
+div>p{
+    color:yellow;
+    background-color: grey;
+    font-style:italic;
+    font-size: 30px;
+}
+div>h1{
+    color: orange;
+    background-color: green;
+}
